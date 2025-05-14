@@ -1,12 +1,14 @@
 import React from 'react';
+import Home from './pages/Home/Home';
+import './App.css';
+
 
 function App() {
   return (
     <div>
-      <h1>Netflix Clone</h1>
-      <h2>hello</h2>
+      <Home />
     </div>
-  )
+  );
 }
   
 
